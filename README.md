@@ -9,6 +9,13 @@ Saat ini, saya sedang aktif belajar di [Dicoding](https://www.dicoding.com/), se
 - **Pemrograman**: Saya sedang memperdalam pengetahuan saya dalam bahasa pemrograman seperti C++, JavaScript, dan Java.
 - **Pengembangan Web**: Saya sedang belajar tentang pengembangan web front-end dan back-end menggunakan teknologi seperti HTML, CSS, Node.js, dan Express.js.
 
+<p align="left">
+<a href="https://github.com/khanifnaufal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khanifnaufal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khanifnaufal&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 ## Hubungi Saya
 
