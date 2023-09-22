@@ -28,5 +28,6 @@ Saya selalu terbuka untuk berkolaborasi dalam proyek-proyek atau berbagi pengeta
 Terima kasih telah mengunjungi profil saya! Saya berharap dapat berkontribusi dalam dunia pengembangan perangkat lunak dan teknologi.
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanifnaufal&label=Profile%20views&color=0e75b6&style=flat" alt="khanifnaufal" /> </p>
 Terakhir diperbarui pada September 2023.
 
