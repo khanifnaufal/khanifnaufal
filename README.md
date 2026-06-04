@@ -130,11 +130,7 @@ const khanif = {
 
 </div>
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=khanifnaufal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 🐍 Contribution Snake
 <div align="center">
